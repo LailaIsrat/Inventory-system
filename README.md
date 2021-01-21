@@ -12,6 +12,6 @@ Here we use random number range to know daily demand and lead time (how many day
 
 I provide two excel sheet ,from where we know the demand and lead time using range.
 
-To know more details see question.docx
+To know more details see :   question.docx
 
 
